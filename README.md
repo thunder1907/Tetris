@@ -32,7 +32,7 @@ This is a console-based implementation of the classic Tetris game using C++. The
 - **🖥️ Language**: C++ (C++17 or later recommended).
 - **📂 Data Structures**: Structs or classes are used to represent tetrominoes.
 - **📊 Grid Representation**: 2D arrays or vector-based grids are used for the game board.
-- **⌨️ Input Handling**: Real-time user input is handled efficiently.
+- **⌨️ Input Handling**: Real time user input is handled efficiently.
 - **🚫 Collision Detection**: Efficient collision detection and game logic are implemented.
 
 ## 🛠️ How to Run
