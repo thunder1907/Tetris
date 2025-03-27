@@ -1,5 +1,6 @@
-# 🎮 Tetris Game in C++
+# 🎮Tetra Twist🎮
 
+# Tetra Twist is a Tetris Game in C++
 This is a console-based implementation of the classic Tetris game using C++. The project includes all the standard Tetris mechanics such as falling tetrominoes, line clearing, scoring, and game-over conditions.
 
 ## 🚀 Features
