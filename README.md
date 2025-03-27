@@ -42,7 +42,7 @@ This is a console-based implementation of the classic Tetris game using C++. The
 
 1. Clone the repository to your local machine.
 2. Compile the source code using a C++ compiler (e.g., `g++`).
-3. Run the executable file to start the game.
+3. Run the executable file to start the game..
 
 ```bash
 g++ -o tetris main.cpp
@@ -79,5 +79,7 @@ This game primarily utilizes the following data structures:
 
 ## License
 This project is licensed under the **MIT License.** 
+
+oh my god
 
      
