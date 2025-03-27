@@ -15,13 +15,14 @@ This is a console-based implementation of the classic Tetris game using C++. The
 
 ## 🕹️ Controls
 
-- **⬅️ Left Arrow (←)** : Move the piece left.
-- **➡️ Right Arrow (→)** : Move the piece right.
-- **🔼 Up Arrow (↑)** : Rotate the piece.
-- **🔽 Down Arrow (↓)** : Soft drop (move the piece down faster).
-- **␣ Spacebar** : Hard drop (instantly drop the piece to the bottom).
-- **Enter** : Press Enter to play again
-- **⏏️ Escape (ESC)** : Pause or quit the game.
+&ensp;&ensp;`A`  or  **⬅️ Left Arrow (←)** : Move left (to the left on the screen).<br>
+&ensp;&ensp;`S`  or  **🔽 Down Arrow (↓)** : Soft drop (move the piece down faster).<br>
+&ensp;&ensp;`D`  or  **➡️ Right Arrow (→)** : Move right (to the right on the screen).<br>
+&ensp;&ensp;`W` : Rotate clockwise 90 degree.<br>
+&ensp;&ensp;`Q` : Pause or quit the game.<br>
+&ensp;&ensp;`␣`  or  **Spacebar** : Hard drop (instantly drop the piece to the bottom).<br>
+&ensp;&ensp; **Enter** : Press Enter to play again. <br>
+&ensp;&ensp; **Escape (ESC)** : Opens Quit menu. <br>
 
 ## 🎲 Game Progression
 
@@ -42,7 +43,7 @@ This is a console-based implementation of the classic Tetris game using C++. The
 
 1. Clone the repository to your local machine.
 2. Compile the source code using a C++ compiler (e.g., `g++`).
-3. Run the executable file to start the game..
+3. Run the executable file to start the game.
 
 ```bash
 g++ -o tetris main.cpp
@@ -65,9 +66,6 @@ This game primarily utilizes the following data structures:
    - shape - A 2D vector representing the shape of the tetromino.
    - x and y - Position of the tetromino on the board.
    - color - An integer representing the tetromino's color.
-3. **Boolean :**
-   - Tracks whether it is a valid move or not.
-   - Prevents unnecessary computations once the game ends.
 
 ## Credits💳:
 
@@ -79,3 +77,5 @@ This game primarily utilizes the following data structures:
 
 ## License
 This project is licensed under the **MIT License.** 
+
+     
